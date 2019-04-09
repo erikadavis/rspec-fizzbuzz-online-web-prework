@@ -6,6 +6,6 @@ if int % 5 == 0
   return "Buzz"
 end
 elsif int % 3 == 0 && int % 5 == 0
-  return "Fizzbuzz"
+  return "FizzBuzz"
 end
 end
