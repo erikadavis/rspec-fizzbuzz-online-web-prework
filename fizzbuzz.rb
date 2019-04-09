@@ -7,3 +7,4 @@ if int % 5 == 0
 elsif int % 3 == 0 && int % 5 == 0
   return "FizzBuzz"
 end
+end
