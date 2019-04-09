@@ -5,7 +5,7 @@ end
 if int % 5 == 0
   return "Buzz"
 end
-if int % 15 == 0
+elsif int % 3 == 0 && int % 5 == 0
   return "Fizzbuzz"
 end
 end
